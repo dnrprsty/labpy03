@@ -21,7 +21,8 @@ print("selesai")
 ```
 ---
 ## Output 
-[output](output/latihan1.png)
+
+![output](output/latihan1.png)
 
 ---
 ## Penjelasan Program 
@@ -59,7 +60,7 @@ print("\nTotal Keuntungan selama 8 bulan:", total_keuntungan, "juta")
 ```
 ---
 ## Output program 
-[output](output/latihan2.png)
+![output](output/latihan2.png)
 
 ---
 ## Penjelasan Program
@@ -116,7 +117,7 @@ while True:
 ---
 
 ## Output 
-[output](output/latihan3.png)
+![output](output/latihan3.png)
 
 ---
 ## Penjelasan program 
